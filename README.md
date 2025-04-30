@@ -6,7 +6,7 @@ Welcome to my corner of the internet — where vinyl records meet voltage rails,
 
 ## 🧠 Who I Am
 
-I’m a hands-on engineer currently studying Computer Engineering at UIUC, with a love for building things that spin, move, blink, or do something useful (or just fun). Whether it's flipping records automatically with a PCB I designed or syncing motors with sensors for particle imaging, I’m all about making hardware do cool stuff.
+I’m a hands-on engineer currently studying Computer Engineering at the University of Illinois Urbana-Champaign, with a love for building things that spin, move, blink, or do something useful (or just fun). Whether it's flipping records automatically with a PCB I designed or syncing motors with sensors for particle imaging, I’m all about making hardware do cool stuff.
 
 🔌 Microcontrollers | ⚙️ Embedded Systems | 🎛 PCB Design  
 📍 Currently based in Urbana, IL  
