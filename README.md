@@ -1,30 +1,30 @@
 # 👋 Hi, I’m Riyaan Jain
 
-Welcome to my corner of the internet — where vinyl records meet voltage rails, and circuits come alive with a bit of code and a lot of curiosity.
+Welcome to one of the few places you'll find me on the internet. Here, I like to show-off some of the cool things I've worked on, in the most respectful and humble way possible.
 
 ---
 
-## 🧠 Who I Am
+## 🧠 What I do
 
-I’m a hands-on engineer currently studying Computer Engineering at the University of Illinois Urbana-Champaign, with a love for building things that spin, move, blink, or do something useful (or just fun). Whether it's flipping records automatically with a PCB I designed or syncing motors with sensors for particle imaging, I’m all about making hardware do cool stuff.
+I’m a hands-on engineer and a strong believer in project-based learning. I’m currently studying Computer Engineering at the University of Illinois Urbana-Champaign, and I love building things that... do things. Whether it's flipping vinyl records with a custom PCB, syncing motors and sensors for automated imaging, or using AI to detect pneumonia from X-rays... I enjoy building... things.
 
-🔌 Microcontrollers | ⚙️ Embedded Systems | 🎛 PCB Design  
+🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
 📍 Currently based in Urbana, IL  
-🎓 Graduating May 2025  
+🎓 Graduating May 2025
 
 ---
 
-## 💼 What I Work On
+## 💼 Some Things I'm Working On Right Now
 
 - **Automatic Vinyl Record Flipper**  
-  A fully automated ESP32-powered system that lifts, rotates, and drops records like a robotic DJ.  
+  My personal DJ (almost). A fully automated ESP32-powered system that lifts, rotates, and drops records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
 - **Smart Imaging Systems**  
-  Designing circuits for automated focus-stacking systems that sync motors and light controls to measure particles — like lab automation, but way cooler.
+  Designing circuits for automated focus-stacking systems that sync motors and light controls to measure particles.
 
 - **Foldable Electric Skateboard**  
-  Building the power, control, and safety circuitry for a foldable e-board that balances speed and smarts.
+  Building the PCB for a foldable electric skateboard startup.
 
 ---
 
@@ -34,20 +34,20 @@ I’m a hands-on engineer currently studying Computer Engineering at the Univers
 - Embedded C, Python, MATLAB  
 - ESP32, Arduino, STM32  
 - Signal processing, power electronics, and circuit debugging  
-- Soldering things that probably shouldn’t be soldered at 2am  
+- Soldering at 2 AM
 
 ---
 
 ## 🌱 Outside the Breadboard
 
-I care about nature, sustainability, and long walks with good conversations. I’ve helped plant over 1,200 trees, and I hope to one day live somewhere sunny in the mountains, working on green tech and building a life that blends nature and engineering.
+I care about nature, sustainability, and music. I’ve helped plant over 1,200 trees, and I hope to one day live somewhere in the mountains, working on green tech and building a life that blends nature and engineering.
 
 ---
 
 ## 🔗 Let’s Connect
 
-- 📫 Email: riyaanj2@illinois.edu  
+- 📫 Email: riyaanj2@illinois.edu OR riyaanjain2@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/riyaanjain)  
 - 💾 [My GitHub Projects](https://github.com/riyaanjain)
 
-Thanks for stopping by!
+Have a nice day. 
