@@ -14,9 +14,9 @@ I’m a hands-on engineer and a strong believer in project-based learning. I’m
 
 ---
 
-## 💼 Some Things I'm Working On Right Now
+## 💼 Some Things I'm Working On
 
-- **Automatic Vinyl Record Flipper**  
+- **[Automatic Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**  
   My personal DJ (almost). An ESP32-powered system that automatically switches sides of vinyl records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
@@ -50,4 +50,4 @@ I care about nature, sustainability, and music. I’ve helped plant over 1,200 t
 - 🔗 [LinkedIn](https://www.linkedin.com/in/riyaanjain)  
 - 💾 [My GitHub Projects](https://github.com/riyaanjain)
 
-Have a nice day. 
+Thanks for visiting! Have a nice day
