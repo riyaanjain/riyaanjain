@@ -17,7 +17,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I’m
 ## 💼 Some Things I'm Working On Right Now
 
 - **Automatic Vinyl Record Flipper**  
-  My personal DJ (almost). A fully automated ESP32-powered system that automatically switches sides of vinyl records.
+  My personal DJ (almost). An ESP32-powered system that automatically switches sides of vinyl records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
 - **Smart Imaging Systems**  
