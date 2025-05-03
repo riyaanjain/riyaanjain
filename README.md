@@ -40,7 +40,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I’m
 
 ## 🌱 Outside the Breadboard
 
-I care about nature, sustainability, and music. I’ve helped plant over 1,200 trees, and I hope to one day live somewhere in the mountains, working on green tech and building a life that blends nature and engineering.
+I care about nature, sustainability, and music. I’ve helped plant over 1,200 trees, and I hope to one day live somewhere in the mountains, working on green tech and building a life that blends nature and engineering. Drumming is also one of my biggest hobbies, so let me know if you want to jam 🥁🎸
 
 ---
 
