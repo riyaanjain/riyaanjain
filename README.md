@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Riyaan Jain
+# 👋 Hi, I’m Riyaan
 
-Welcome to one of the few places you'll find me on the internet. Here, I like to show-off some of the cool things I've worked on, in the most respectful and humble way possible.
+Welcome. Here, I like to show-off some of the cool things I've worked on, in the most humble way possible.
 
 ---
 
 ## 🧠 What I do
 
-I’m a hands-on engineer and a strong believer in project-based learning. I’m currently studying Computer Engineering at the University of Illinois Urbana-Champaign, and I love building things that... do things. Whether it's flipping vinyl records with a custom PCB, syncing motors and sensors for automated imaging, or using AI to detect pneumonia from X-rays... I enjoy building... things.
+I’m a hands-on engineer and a strong believer in project-based learning. I studied Computer Engineering at the University of Illinois Urbana-Champaign, and I love building things that... do things. Whether it's flipping vinyl records with a custom PCB, syncing motors and sensors for automated imaging, or using AI to detect pneumonia from X-rays... I enjoy building... things.
 
 🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
 📍 Currently based in Urbana, IL  
@@ -40,7 +40,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I’m
 
 ## 🌱 Outside the Breadboard
 
-I care about nature, sustainability, and music. I’ve helped plant over 1,200 trees, and I hope to one day live somewhere in the mountains, working on green tech and building a life that blends nature and engineering. Drumming is also one of my biggest hobbies, so let me know if you want to jam 🥁🎸
+I care about nature, sustainability, and music. I’ve helped plant over 1,200 trees, and I hope to one day live somewhere in the mountains, working on green tech and building a life that blends nature and engineering. Drumming is also one of my biggest hobbies, so let me know if you want to jam
 
 ---
 
