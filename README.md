@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Riyaan
 
-Welcome. Here, I like to (humbly) show-off some of the cool things I've worked on.
+Welcome. Here are some of the cool things I've worked on.
 
 ---
 
