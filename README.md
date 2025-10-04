@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Riyaan
+# Riyaan Jain
 
 Welcome. Here are some of the cool things I've worked on.
 
