@@ -6,25 +6,24 @@ Welcome. Here are some of the cool things I've worked on.
 
 ## 🧠 What I do
 
-I’m a hands-on engineer and a strong believer in project-based learning. I studied Computer Engineering at the University of Illinois Urbana-Champaign, and I love building things that... do things. Whether it's flipping vinyl records with a custom PCB, syncing motors and sensors for automated imaging, or using AI to detect pneumonia from X-rays... I enjoy building... things.
+I’m a hands-on engineer and a strong believer in project-based learning. I studied Computer Engineering at the University of Illinois Urbana-Champaign, and I love building things that do things. Whether it's flipping vinyl records with a custom PCB, designing hardware to monitor infrastructure health, or using AI to detect pneumonia from X-rays, I enjoy building..things
 
 🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
-📍 Currently based in Urbana, IL  
+👨‍💻 Hardware Engineer at StructureIQ
+📍 Currently in Champaign, IL
 🎓 Graduating May 2025
+
 
 ---
 
-## 💼 Some Things I'm Working On
+## 💼 Some Things I've Worked On
 
 - **[Automatic Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**  
-  My personal DJ (almost). An ESP32-powered system that automatically switches sides of vinyl records.
+  My personal music butler. An ESP32-powered system that automatically switches sides of vinyl records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
-- **Smart Imaging Systems**  
-  Designing circuits for automated focus-stacking systems that sync motors and light controls to measure particles.
-
 - **Foldable Electric Skateboard**  
-  Building the PCB for a foldable electric skateboard startup.
+  Designing the PCB for a foldable electric skateboard startup.
 
 ---
 
@@ -40,7 +39,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I stu
 
 ## 🌱 Outside the Breadboard
 
-I care about nature, sustainability, and music. I’ve helped plant over 1,200 trees, and I hope to one day live somewhere in the mountains, working on green tech and building a life that blends nature and engineering. Drumming is also one of my biggest hobbies, so let me know if you want to jam
+I care about nature and music. I’ve helped plant over 1,200 trees, and I hope to some day work on sustainable technology. Drumming is also one of my biggest hobbies, so let me know if you want to jam. For my next project, I want to design a custom board that can manipulate audio signals to create unique electronic music effects, like a compact DJ deck that experiments with sound in creative, signal-driven ways.
 
 ---
 
