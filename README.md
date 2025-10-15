@@ -11,7 +11,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I stu
 🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
 👨‍💻 Hardware Engineer at StructureIQ
 📍 Currently in Champaign, IL
-🎓 Graduating May 2025
+🎓 May 2025
 
 
 ---
