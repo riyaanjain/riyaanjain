@@ -19,7 +19,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I stu
 ## 💼 Some Things I've Worked On
 
 - **[Automatic Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**  
-  My personal music butler. An ESP32-powered system that automatically switches sides of vinyl records.
+  My music butler. An ESP32-powered system that automatically switches sides of vinyl records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
 - **Foldable Electric Skateboard**  
