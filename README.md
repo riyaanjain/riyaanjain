@@ -1,6 +1,6 @@
 # Hey, it's Riyaan 👋
 
-and welcome to my GitHub! Here are some of the cool things I've enjoyed working on...
+And welcome to my GitHub! Here are some of the cool things I've enjoyed working on...
 
 ---
 
