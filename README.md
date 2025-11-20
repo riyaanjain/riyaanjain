@@ -6,7 +6,7 @@ And welcome to my GitHub! Here are some of the cool things I've enjoyed working 
 
 ## 🧠 What I do
 
-I’m a hands-on engineer and a strong believer in project-based learning. I studied Computer Engineering at the University of Illinois Urbana-Champaign due to my passion for building things. Whether it's flipping vinyl records with a custom PCB, designing hardware to monitor infrastructure health, or using AI to detect pneumonia from X-rays, I enjoy engineering cool things. 
+I’m a hands-on engineer and a strong believer in project-based learning. I studied ECE at the University of Illinois Urbana-Champaign due to my passion for building things. Whether it's flipping vinyl records with a custom PCB, designing hardware to monitor infrastructure health, or using AI to detect pneumonia from X-rays, I enjoy engineering cool things. 
 
 🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
 👨‍💻 Lead Hardware Engineer @ StructureIQ Inc.
