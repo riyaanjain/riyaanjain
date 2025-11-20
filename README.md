@@ -6,7 +6,7 @@ And welcome to my GitHub! Here are some of the cool things I've enjoyed working 
 
 ## 🧠 What I do
 
-I’m a hands-on engineer and a strong believer in project-based learning. I studied ECE at the University of Illinois Urbana-Champaign due to my passion for building things. Whether it's flipping vinyl records with a custom PCB, designing hardware to monitor infrastructure health, or using AI to detect pneumonia from X-rays, I enjoy engineering cool things. 
+I’m a hands-on engineer and a strong believer in project-based learning. I chosee to study Electrical and Computer Engineering at the University of Illinois Urbana-Champaign to turn a lifelong love of building things into something real. Since then, I've built everything from an automated vinyl record flipper to IoT nodes for structural health monitoring, so I'm happy to say that I'm doing what I love!!
 
 🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
 👨‍💻 Lead Hardware Engineer @ StructureIQ Inc.
@@ -18,10 +18,10 @@ I’m a hands-on engineer and a strong believer in project-based learning. I stu
 
 ## 💼 Some Things I've Worked On
 
-- **[Automatic Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: My music butler. An ESP32-powered system that automatically switches sides of vinyl records.
+- **[Automated Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: My music butler. An ESP32-powered system that automatically switches sides of vinyl records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
--  **Structural Health Monitoring IoT Device**: I am the lead hardware engineer and responsible for all PCB design at StructureIQ Inc.
+-  **Structural Health Monitoring IoT Device**: I am currently the lead hardware engineer and responsible for all PCB design at StructureIQ Inc.
   
 - **Foldable Electric Skateboard**: I helped design the PCB for a foldable electric skateboard startup.
 
@@ -39,7 +39,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I stu
 
 ## 🌱 Outside the Breadboard
 
-I care about nature and music. I’ve helped plant over 1,200 trees, and I hope to some day work on sustainable technology. I also love playing the drums and DJing, so let me know if you want to jam. For my next project, I want to design a custom PCB that can manipulate audio signals to create unique electronic music effects, like an audio board that experiments with sound in creative, signal-driven ways.
+I care about nature and music. I’ve helped raised thousands of dollars for environmental initiatives, and I hope to some day work on sustainable technology. I also love playing the drums and DJing, so let me know if you want to jam. For my next personal project, I want to design a custom PCB that can manipulate audio signals to create unique electronic music effects, like an audio board that experiments with sound in creative, signal-driven ways.
 
 ---
 
