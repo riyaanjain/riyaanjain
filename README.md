@@ -9,9 +9,9 @@ And welcome to my GitHub! Here are some of the cool things I've enjoyed working 
 I’m a hands-on engineer and a strong believer in project-based learning. I chose to study Electrical and Computer Engineering at the University of Illinois Urbana-Champaign to turn a lifelong love of building things into something real. Since then, I've built everything from an automated vinyl record flipper to IoT nodes for structural health monitoring, so I'm happy to say that I'm doing what I love!!
 
 🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
-👨‍💻 Lead Hardware Engineer @ StructureIQ Inc.
-📍 Currently in Champaign, IL
-🎓 B.S. Computer Engineering @ University of Illinois Urbana-Champaign
+👨‍💻 Lead Hardware Engineer @ StructureIQ Inc.  
+📍 Currently in Champaign, IL  
+🎓 B.S. Computer Engineering @ University of Illinois Urbana-Champaign  
 
 
 ---
