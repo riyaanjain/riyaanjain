@@ -21,9 +21,9 @@ I’m a hands-on engineer and a strong believer in project-based learning. I cho
 - **[Automated Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: My music butler. An ESP32-powered system that automatically switches sides of vinyl records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
--  **Structural Health Monitoring IoT Device**: I am currently the lead hardware engineer and responsible for all PCB design at StructureIQ Inc. I can't share my board designs as that's confidential, but trust me, they're so cool...
+-  **Structural Health Monitoring IoT Device**: I am currently the lead hardware engineer and responsible for board design at StructureIQ Inc. I can't share my board designs as that's confidential, but trust me, they're cool...
   
-- **Foldable Electric Skateboard**: I helped design the PCB for a foldable electric skateboard at eFold Electronics.
+- **Foldable Electric Skateboard**: I helped with board design for a foldable electric skateboard concept at eFold Electronics !!
 
 ---
 
@@ -39,7 +39,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I cho
 
 ## 🌱 Outside the Breadboard
 
-I care about nature and music. I’ve helped raised thousands of dollars for environmental initiatives, and I hope to some day work on sustainable technology. I also love playing the drums and DJing, so let me know if you want to jam. For my next personal project, I want to design a custom PCB that can manipulate audio signals to create unique electronic music effects, like an audio board that experiments with sound in creative, signal-driven ways.
+I care about nature and music. I’ve helped raised thousands of dollars for environmental initiatives, and I hope to some day work on sustainable technology. I also love playing the drums and DJing, so let me know if you want to jam. For my next personal project, I want to design a custom board that can manipulate audio signals to create unique electronic music effects, like an audio board that experiments with sounds in creative, signal-driven ways.
 
 ---
 
