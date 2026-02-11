@@ -21,9 +21,11 @@ I’m a hands-on engineer and a strong believer in project-based learning. I cho
 - **[Automated Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: My music butler. An ESP32-powered system that automatically switches sides of vinyl records.
   [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
 
--  **Structural Health Monitoring IoT Device**: I am currently the lead hardware engineer and responsible for board design at StructureIQ Inc. I can't share my board designs as that's confidential, but trust me, they're cool...
+-  **Structural Health Monitoring IoT Device**: I am currently the lead hardware engineer and responsible for board design at StructureIQ Inc. I design hardware that achieves: low power, small footprint, and powerful sensing! My hardware will be deployed on all sorts of infrastructure to monitor its health to provide people with a safer environment. Think bridges, buildings, telephone poles....... I can't share my board designs as that's confidential, but just imagine the coolest invention ever and tone that down by like 50%.
   
 - **Foldable Electric Skateboard**: I helped with board design for a foldable electric skateboard concept at eFold Electronics !!
+
+- **[Pneuomonia Detector](https://github.com/riyaanjain/AI_pneumonia_detector)**: Change of pace but I've also worked on some software projects, notably this computer vision framework we trained and configured to work on low power computers to detect pneumonia in patients using their X-ray images. [Check it out here!](https://github.com/riyaanjain/AI_pneumonia_detector)
 
 ---
 
