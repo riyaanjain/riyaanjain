@@ -31,17 +31,19 @@ I’m a hands-on engineer and a strong believer in project-based learning. I cho
 
 ## 🛠 Skills & Tools
 
-- PCB Design (KiCad, Altium Designer, SPICE)  
-- Embedded C, Python, MATLAB  
-- ESP32, Arduino, STM32  
-- Signal processing, power electronics, and circuit debugging  
+- PCB Design (Schematic capture, PCB Layout, KiCad, Altium Designer)
+- Oscilloscopes, Digital Multimeters, SPICE Simulations, Power Profiling, Sensor Data Logging
+- SPI, I2C, UART
+- Embedded C/C++, Python, MATLAB, Test Scripts
+- ESP32, Arduino, STM32
+- Signal processing, Mixed Signals, Power Electronics  
 - Soldering at 2 AM
 
 ---
 
 ## 🌱 Outside the Breadboard
 
-I care about nature and music. I’ve helped raised thousands of dollars for environmental initiatives, and I hope to some day work on sustainable technology. I also love playing the drums and DJing, so let me know if you want to jam. For my next personal project, I want to design a custom board that can manipulate audio signals to create unique electronic music effects, like an audio board that experiments with sounds in creative, signal-driven ways.
+I enjoy nature, music, and space. I’ve helped raised thousands of dollars for environmental initiatives, and I hope to some day work on sustainable technology. I play the drums and am in a band, and I enjoy DJing too. One of my favourite quotes is: “You are an aperture through which the universe is looking at and exploring itself”, _Carl Sagan_. 
 
 ---
 
