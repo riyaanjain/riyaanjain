@@ -1,4 +1,4 @@
-# Hey it's Riyaan 👋
+# Hey, it's Riyaan 👋
 
 And welcome to my GitHub! Here are some of the cool things I've worked on...
 
