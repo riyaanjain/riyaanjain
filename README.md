@@ -25,7 +25,7 @@ I’m a hands-on engineer and a strong believer in project-based learning. I cho
   
 - **Foldable Electric Skateboard**: I helped with board design for a foldable electric skateboard concept at eFold Electronics !!
 
-- **[Pneuomonia Detector](https://github.com/riyaanjain/AI_pneumonia_detector)**: Change of pace but I've also worked on some software projects, notably this computer vision framework we trained and configured to work on low power computers to detect pneumonia in patients using their X-ray images. [Check it out here!](https://github.com/riyaanjain/AI_pneumonia_detector)
+- **[Pneuomonia Detector](https://github.com/riyaanjain/AI_pneumonia_detector)**: Change of pace but I've also worked on many software projects, notably this computer vision framework we trained and configured to work on low power computers to detect pneumonia in patients using their X-ray images. [Check it out here!](https://github.com/riyaanjain/AI_pneumonia_detector)
 
 ---
 
