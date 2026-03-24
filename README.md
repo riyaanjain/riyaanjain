@@ -1,56 +1,22 @@
-# Hey, it's Riyaan 👋
+# this is my github
+a place to tap into the technical mind. records of creations. an archive of human tools designed to solve problems. 
 
-And welcome to my GitHub! Here are some of the cool things I've worked on...
+i got my bachelor's degree from uiuc in computer engineering. since then ive been working as a hardware engineer at a startup called structureiq. 
 
----
+i like physics. electricity was no exception. and pcb design feels like an intuitive application where an understanding of electricity subconsciously comes together as drawings. 
 
-## 🧠 What I do
+## some projects i can showcase 
 
-I’m a hands-on engineer and a strong believer in project-based learning. I chose to study Electrical and Computer Engineering at the University of Illinois Urbana-Champaign to turn a lifelong love of building things into something real. Since then, I've built everything from an automated vinyl record flipper to IoT nodes for structural health monitoring, so I'm happy to say that I'm doing what I love!!
+- **[automated vinyl record flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: im too lazy to flip my vinyls every 20 minutes.
 
-🎛 PCB Design  |  🔌 Microcontrollers  |  ⚙️ Embedded Systems  
-👨‍💻 Hardware Engineer @ StructureIQ Inc.  
-📍 Currently in Champaign, IL  
-🎓 B.S. Computer Engineering @ University of Illinois Urbana-Champaign  
-
-
----
-
-## 💼 Some Things I've Worked On
-
-- **[Automated Vinyl Record Flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: My music butler. An ESP32-powered system that automatically switches sides of vinyl records.
-  [Check it out →](https://github.com/riyaanjain/VinylRecordFlipper)
-
--  **Structural Health Monitoring IoT Device**: I am currently the lead hardware engineer and responsible for board design at StructureIQ Inc. I design hardware that achieves: low power, small footprint, and powerful sensing! My hardware is deployed on all sorts of infrastructure to monitor its health to provide people with a safer environment. Think bridges, buildings, telephone poles....... I can't share my board designs as that's confidential, but just close your eyes and imagine a beautiful web of wires and signals. 
+-  **structural health monitoring device**: my current work. its a startup and i take care of the hardware. some keywords: components, breadboards, pcbs, oscilloscopes, multimeters, microcontrollers, enclosure
   
-- **Foldable Electric Skateboard**: I helped with board design for a foldable electric skateboard concept at eFold Electronics !!
+- **efold electronics**: i helped with board design for a foldable electric skateboard concept
 
-- **[Pneuomonia Detector](https://github.com/riyaanjain/AI_pneumonia_detector)**: Change of pace but I've also worked on many software projects, notably this computer vision framework we trained and configured to work on low power computers to detect pneumonia in patients using their X-ray images. [Check it out here!](https://github.com/riyaanjain/AI_pneumonia_detector)
+- **[ai pneumonia detector from lung x ray](https://github.com/riyaanjain/AI_pneumonia_detector)**: ive also worked on many software projects. one of them was trying to diagnose pneumonia from lung x ray images. it worked-ish but we needed a better computer for training..
 
----
+#"you are a way for the universe to observe itself"
 
-## 🛠 Skills & Tools
-
-- PCB Design (Schematic capture, PCB Layout, KiCad, Altium Designer)
-- Oscilloscopes, Digital Multimeters, SPICE Simulations, Power Profiling, Sensor Data Logging
-- SPI, I2C, UART
-- Embedded C/C++, Python, MATLAB, Test Scripts
-- ESP32, Arduino, STM32
-- Signal processing, Mixed Signals, Power Electronics  
-- Soldering at 2 AM
-
----
-
-## 🌱 Outside the Breadboard
-
-I enjoy nature, music, and space. I’ve helped raised thousands of dollars for environmental initiatives, and I hope to some day work on sustainable technology. I play the drums and am in a band, and I enjoy DJing too. One of my favourite quotes is: “You are an aperture through which the universe is looking at and exploring itself”, _Carl Sagan_. 
-
----
-
-## 🔗 Let’s Connect
-
-- 📫 Email: riyaanj2@illinois.edu OR riyaanjain2@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/riyaanjain)  
-- 💾 [My GitHub Projects](https://github.com/riyaanjain)
-
-Thanks for visiting! Have a nice day
+## email and linkedin
+- riyaanjain2@gmail.com
+- [linkedin](https://www.linkedin.com/in/riyaanjain) 
