@@ -5,7 +5,7 @@ i got my bachelor's degree from uiuc in computer engineering. since then ive bee
 
 i like physics. electricity was no exception. and pcb design feels like an intuitive application where an understanding of electricity subconsciously comes together as drawings. 
 
-## some projects i can showcase 
+## some projects 
 
 - **[automated vinyl record flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: im too lazy to flip my vinyls every 20 minutes.
 
