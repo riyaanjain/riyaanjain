@@ -1,4 +1,4 @@
-# this is my github
+# github
 records of creations. an archive of human tools designed to solve problems. 
 
 i got my bachelor's degree from uiuc in computer engineering. since then ive been working as a hardware engineer at a startup called structureiq. 
