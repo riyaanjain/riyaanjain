@@ -3,7 +3,7 @@ records of creations. an archive of human tools designed to solve problems.
 
 i got my bachelor's degree from uiuc in computer engineering. since then ive been working as a hardware engineer at a startup called structureiq. 
 
-i like physics. electricity was no exception. pcb design is like electricity painting itself
+i like physics. electricity was no exception. i also like art. i see the board as the canvas and the electricity as the paint. 
 
 ## some projects 
 
