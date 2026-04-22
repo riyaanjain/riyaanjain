@@ -5,7 +5,7 @@ i got my bachelor's degree from uiuc in computer engineering. since then ive bee
 
 i like physics. electricity was no exception. i also like art. 
 
-i see the board as the canvas and electricity as the paint. #pcb
+i see the board as the canvas and electricity as the paint #pcbdesign!
 
 ## some projects 
 
