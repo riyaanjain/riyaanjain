@@ -9,7 +9,7 @@ i like physics. electricity was no exception. pcb design is like electricity pai
 
 - **[automated vinyl record flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: im too lazy to flip my vinyls every 20 minutes.
 
--  **structural health monitoring device**: my current work. its a startup and i take care of the hardware. some keywords: components, breadboards, pcbs, oscilloscopes, multimeters, microcontrollers, enclosure
+-  **structural health monitoring device**: my current work. its a startup and i take care of the hardware. some keywords: pcbs, components, breadboards, oscilloscopes, multimeters, microcontrollers, enclosure
   
 - **efold electronics**: i helped with board design for a foldable electric skateboard concept
 
