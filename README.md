@@ -11,7 +11,7 @@ i see the board as the canvas and electricity as the paint #pcbdesign!
 
 - **[automated vinyl record flipper](https://github.com/riyaanjain/VinylRecordFlipper)**: im too lazy to flip my vinyls every 20 minutes.
 
--  **structural health monitoring device**: my current work. its a startup and i take care of the hardware. some keywords: pcbs, components, breadboards, oscilloscopes, multimeters, microcontrollers, enclosure
+-  **[structural health monitoring device](https://github.com/riyaanjain/StructureIQ_Xnode_PCB)**: a startup and where i took care of all the hardware. some keywords: pcbs, components, breadboards, oscilloscopes, multimeters, microcontrollers, enclosure
   
 - **efold electronics**: i helped with board design for a foldable electric skateboard concept
 
