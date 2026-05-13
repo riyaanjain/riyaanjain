@@ -1,5 +1,5 @@
 # github
-records of creations. an archive of human tools designed to solve problems. 
+records of creations... human + tools
 
 i got my bachelor's degree from uiuc in computer engineering. since then ive been working as a hardware engineer at a startup called structureiq. 
 
