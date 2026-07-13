@@ -1,11 +1,4 @@
 # github
-records of creations... human + tools
-
-i got my bachelor's degree from uiuc in computer engineering. since then ive been working as a hardware engineer at a startup called structureiq. 
-
-i like physics. electricity was no exception. i also like art. 
-
-i see the board as the canvas and electricity as the paint #pcbdesign!
 
 ## some projects 
 
