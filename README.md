@@ -10,8 +10,6 @@
 
 - **[ai pneumonia detector from lung x ray](https://github.com/riyaanjain/AI_pneumonia_detector)**: ive also worked on many software projects. one of them was trying to diagnose pneumonia from lung x ray images. it worked-ish but we needed a better computer for training..
 
-### you are a way for the universe to observe itself
-
 ## email and linkedin
 - riyaanjain2@gmail.com
 - [linkedin](https://www.linkedin.com/in/riyaanjain) 
