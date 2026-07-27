@@ -8,7 +8,7 @@
   
 - **efold electronics**: i helped with board design for a foldable electric skateboard concept
 
-- **[ai pneumonia detector from lung x ray](https://github.com/riyaanjain/AI_pneumonia_detector)**: ive also worked on many software projects. one of them was trying to diagnose pneumonia from lung x ray images. it worked-ish but we needed a better computer for training..
+- **[ai pneumonia detector from lung x ray](https://github.com/riyaanjain/AI_pneumonia_detector)**: ive also worked on many software projects. one of them was trying to diagnose pneumonia from lung x ray images. it worked but we needed a better computer for training..
 
 ## email and linkedin
 - riyaanjain2@gmail.com
